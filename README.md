@@ -120,7 +120,7 @@ In Minima 3.0, if you only need to customize the colors of the theme, refer to t
 variables and mixins inside a sass file placed at `_sass/minima/custom-variables.scss` and all other overrides inside a sass file
 placed at path `_sass/minima/custom-styles.scss`.
 
-You need not maintain entire partial(s) at the site's source just to override a few styles. However, your stylesheet's primary
+.You need not maintain entire partial(s) at the site's source just to override a few styles. However, your stylesheet's primary
 source (`assets/css/style.scss`) should contain the following:
 
   - Front matter dashes at the very beginning (can be empty).
