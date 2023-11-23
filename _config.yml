@@ -55,6 +55,8 @@ minima:
 # Build settings
 theme: minima
 
+remote_theme: minima
+
 plugins:
  - jekyll-feed
  - jekyll-seo-tag
